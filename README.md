@@ -4,19 +4,19 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 ## About Me
 
-- 🌱 I’m currently learning [your current learning focus, e.g., React, Python, etc.]
-- 👯 I’m looking to collaborate on [projects you're interested in collaborating on]
-- 🤔 I’m looking for help with [any areas where you need help]
-- 💬 Ask me about [topics you are knowledgeable in and can help others with]
-- 📫 How to reach me: [your email or other contact information]
-- ⚡ Fun fact: [a fun fact about you]
+- 🌱 I’m currently learning [Redis]
+- 👯 I’m looking to collaborate on [CompetitionManager]
+- 🤔 I’m looking for help with [Front-end development]
+- 💬 Ask me about [Back-end development]
+- 📫 How to reach me: [22009200139@stu.xidian.edu.cn]
+- ⚡ Fun fact: [Movie]
 
 ## Skills
 
-- **Languages:** [list of programming languages you know]
-- **Frameworks:** [list of frameworks you have experience with]
-- **Tools:** [list of tools you use]
-- **Other:** [any other relevant skills]
+- **Languages:** [Java,Python,C++]
+- **Frameworks:** [Springboot]
+- **Tools:** [Navicat]
+- **Other:** [Mysql]
 
 ## Projects
 
