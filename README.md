@@ -22,9 +22,7 @@ Welcome to my GitHub profile! I'm a passionate developer always eager to learn a
 
 Here are some of the projects I've worked on:
 
-- [Project Name](link to project): Brief description of the project.
-- [Project Name](link to project): Brief description of the project.
-- [Project Name](link to project): Brief description of the project.
+- [CompetitionManager](https://github.com/mhynb/CompetitionManager): 竞赛管理
 
 ## GitHub Stats
 
