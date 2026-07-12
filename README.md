@@ -1,6 +1,6 @@
 <!-- 顶部动态波浪横幅 (颜色会随时间变化) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20[Your%20Name]%20!&fontSize=70&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descAlign=62" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20there,%20I'm%20BL_%20Coder%20!&fontSize=70&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descAlign=62" alt="Header Banner" />
 </p>
 
 <!-- 动态打字机效果自我介绍 -->
