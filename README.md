@@ -58,23 +58,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhynb&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhynb&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 Trophies (成就奖杯)
-
-<p align="center">
-  <!-- 替换 YOUR_GITHUB_USERNAME -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mhynb&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</p>
-
----
-
 <!-- 底部留白和动画提示 (进阶玩家可以放 GitHub Actions 生成的贪吃蛇动画) -->
 <br>
 <p align="center">
