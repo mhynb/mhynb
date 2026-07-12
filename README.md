@@ -54,7 +54,6 @@
 
 <p align="center">
   <!-- 替换 YOUR_GITHUB_USERNAME 为你的真实 GitHub 账号名 -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mhynb&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhynb&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
