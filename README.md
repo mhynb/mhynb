@@ -56,11 +56,3 @@
   <!-- 替换 YOUR_GITHUB_USERNAME 为你的真实 GitHub 账号名 -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhynb&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
-
-<!-- 底部留白和动画提示 (进阶玩家可以放 GitHub Actions 生成的贪吃蛇动画) -->
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="25" />
-  <i>Visitors count:</i>
-  <img src="https://profile-counter.glitch.me/mhynb/count.svg" alt="Profile View Counter" />
-</p>
